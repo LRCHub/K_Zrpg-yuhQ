@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねぇねぇ",
+  "base_artist": "DOKIN",
+  "createdAt": "2025-12-19T16:15:05.477082Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねぇねぇ",
+      "artist": "DOKIN",
+      "has_synced": false,
+      "path": "select/pl_01_ねぇねぇ_DOKIN.txt"
+    }
+  ]
+}
